@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635714125 source:d:\ahmed\tasks\mono\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<string>
+	<iomanip>
+	<vector>
+
